@@ -22,7 +22,7 @@
           "item": "create_simple_coins:incomplete_netherite_coin"
         },
         {
-          "tag": "forge:nuggets/gold"
+          "tag": "c:nuggets/gold"
         }
       ],
       "results": [
@@ -53,7 +53,7 @@
           "item": "create_simple_coins:incomplete_netherite_coin"
         },
         {
-          "tag": "forge:ingots/gold"
+          "tag": "c:ingots/gold"
         }
       ],
       "results": [

@@ -22,7 +22,7 @@
           "item": "create_simple_coins:incomplete_gold_coin"
         },
         {
-          "tag": "forge:nuggets/iron"
+          "tag": "c:nuggets/iron"
         }
       ],
       "results": [

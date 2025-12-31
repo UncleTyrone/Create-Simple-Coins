@@ -24,6 +24,7 @@ public class ModCreativeModeTabs {
                                 output.accept(ModItems.GOLD_COIN.get());
                                 output.accept(ModItems.DIAMOND_COIN.get());
                                 output.accept(ModItems.NETHERITE_COIN.get());
+                                output.accept(ModItems.MEGA_COIN.get());
 
                                 output.accept(ModItems.INCOMPLETE_COPPER_COIN.get());
                                 output.accept(ModItems.INCOMPLETE_IRON_COIN.get());
