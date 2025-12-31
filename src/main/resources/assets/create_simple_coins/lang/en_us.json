@@ -19,5 +19,8 @@
 
   "creativetab.create_simple_coins_tab": "Create: Simple Coins",
 
-  "item.create_simple_coins.mega_coin": "MEGACOINSUPERRAREWOWOWOW™"
+  "item.create_simple_coins.mega_coin": "MEGACOINSUPERRAREWOWOWOW™",
+
+  "jei.create_simple_coins.mega_coin.info_line1": "Mint coins with Create's Sequenced Assembly to climb each tier.",
+  "jei.create_simple_coins.mega_coin.info_line2": "Blast defective coins to reclaim resources and start another batch."
 }

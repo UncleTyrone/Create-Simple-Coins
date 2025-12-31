@@ -7,11 +7,11 @@
   "results": [
     {
       "chance": 320,
-      "item": "create_simple_coins:copper_coin"
+      "id": "create_simple_coins:copper_coin"
     },
     {
       "chance": 2,
-      "item": "create_simple_coins:defective_copper_coin"
+      "id": "create_simple_coins:defective_copper_coin"
     }
   ],
   "sequence": [
@@ -27,7 +27,7 @@
       ],
       "results": [
         {
-          "item": "create_simple_coins:incomplete_copper_coin"
+          "id": "create_simple_coins:incomplete_copper_coin"
         }
       ]
     },
@@ -40,7 +40,7 @@
       ],
       "results": [
         {
-          "item": "create_simple_coins:incomplete_copper_coin"
+          "id": "create_simple_coins:incomplete_copper_coin"
         }
       ]
     },
@@ -53,12 +53,12 @@
       ],
       "results": [
         {
-          "item": "create_simple_coins:incomplete_copper_coin"
+          "id": "create_simple_coins:incomplete_copper_coin"
         }
       ]
     }
   ],
-  "transitionalItem": {
-    "item": "create_simple_coins:incomplete_copper_coin"
+  "transitional_item": {
+    "id": "create_simple_coins:incomplete_copper_coin"
   }
 }

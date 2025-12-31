@@ -7,11 +7,11 @@
   "results": [
     {
       "chance": 418,
-      "item": "create_simple_coins:diamond_coin"
+      "id": "create_simple_coins:diamond_coin"
     },
     {
       "chance": 2,
-      "item": "create_simple_coins:defective_diamond_coin"
+      "id": "create_simple_coins:defective_diamond_coin"
     }
   ],
   "sequence": [
@@ -27,7 +27,7 @@
       ],
       "results": [
         {
-          "item": "create_simple_coins:incomplete_diamond_coin"
+          "id": "create_simple_coins:incomplete_diamond_coin"
         }
       ]
     },
@@ -40,12 +40,12 @@
       ],
       "results": [
         {
-          "item": "create_simple_coins:incomplete_diamond_coin"
+          "id": "create_simple_coins:incomplete_diamond_coin"
         }
       ]
     }
   ],
-  "transitionalItem": {
-    "item": "create_simple_coins:incomplete_diamond_coin"
+  "transitional_item": {
+    "id": "create_simple_coins:incomplete_diamond_coin"
   }
 }

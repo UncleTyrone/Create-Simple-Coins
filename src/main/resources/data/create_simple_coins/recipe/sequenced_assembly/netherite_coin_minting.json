@@ -7,11 +7,11 @@
   "results": [
     {
       "chance": 420,
-      "item": "create_simple_coins:netherite_coin"
+      "id": "create_simple_coins:netherite_coin"
     },
     {
       "chance": 1,
-      "item": "create_simple_coins:defective_netherite_coin"
+      "id": "create_simple_coins:defective_netherite_coin"
     }
   ],
   "sequence": [
@@ -27,7 +27,7 @@
       ],
       "results": [
         {
-          "item": "create_simple_coins:incomplete_netherite_coin"
+          "id": "create_simple_coins:incomplete_netherite_coin"
         }
       ]
     },
@@ -41,7 +41,7 @@
       ],
       "results": [
         {
-          "item": "create_simple_coins:incomplete_netherite_coin"
+          "id": "create_simple_coins:incomplete_netherite_coin"
         }
       ]
     },
@@ -58,7 +58,7 @@
       ],
       "results": [
         {
-          "item": "create_simple_coins:incomplete_netherite_coin"
+          "id": "create_simple_coins:incomplete_netherite_coin"
         }
       ]
     },
@@ -72,7 +72,7 @@
       ],
       "results": [
         {
-          "item": "create_simple_coins:incomplete_netherite_coin"
+          "id": "create_simple_coins:incomplete_netherite_coin"
         }
       ]
     },
@@ -86,13 +86,13 @@
       ],
       "results": [
         {
-          "item": "create_simple_coins:incomplete_netherite_coin"
+          "id": "create_simple_coins:incomplete_netherite_coin"
         }
       ]
     }
 
   ],
-  "transitionalItem": {
-    "item": "create_simple_coins:incomplete_netherite_coin"
+  "transitional_item": {
+    "id": "create_simple_coins:incomplete_netherite_coin"
   }
 }

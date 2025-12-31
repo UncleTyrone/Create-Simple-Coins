@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "create_simple_coins:diamond_coin"
+    },
+    "result": {
+        "id": "minecraft:diamond"
+    },
+    "experience": 0.1,
+    "cookingtime": 100
+}

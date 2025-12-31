@@ -6,12 +6,12 @@
   "loops": 1,
   "results": [
     {
-      "chance": 315,
-      "item": "create_simple_coins:iron_coin"
+      "chance": 315.0,
+      "id": "create_simple_coins:iron_coin"
     },
     {
-      "chance": 2,
-      "item": "create_simple_coins:defective_iron_coin"
+      "chance": 2.0,
+      "id": "create_simple_coins:defective_iron_coin"
     }
   ],
   "sequence": [
@@ -27,7 +27,7 @@
       ],
       "results": [
         {
-          "item": "create_simple_coins:incomplete_iron_coin"
+          "id": "create_simple_coins:incomplete_iron_coin"
         }
       ]
     },
@@ -40,7 +40,7 @@
       ],
       "results": [
         {
-          "item": "create_simple_coins:incomplete_iron_coin"
+          "id": "create_simple_coins:incomplete_iron_coin"
         }
       ]
     },
@@ -53,12 +53,12 @@
       ],
       "results": [
         {
-          "item": "create_simple_coins:incomplete_iron_coin"
+          "id": "create_simple_coins:incomplete_iron_coin"
         }
       ]
     }
   ],
-  "transitionalItem": {
-    "item": "create_simple_coins:incomplete_iron_coin"
+  "transitional_item": {
+    "id": "create_simple_coins:incomplete_iron_coin"
   }
 }
